@@ -1,10 +1,3 @@
-//
-//  DataTests.swift
-//  DataTests
-//
-//  Created by NEI VITOR on 08/08/24.
-//
-
 import XCTest
 @testable import Data
 
